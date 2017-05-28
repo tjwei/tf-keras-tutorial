@@ -9,3 +9,4 @@
 * 然後 jupyter notebook 打開 notebook
 
 如果安裝上有困難， 可以用 Microsoft 帳號， 使用雲端環境執行 https://notebooks.azure.com/tjwei/libraries/tf-keras-intro
+進入 azure notebook 後，執行 setup.py 後，即可使用
